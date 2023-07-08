@@ -23,7 +23,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 150px;
 }
 
 .nav-title{
@@ -88,6 +88,20 @@ nav li{
 }
 
 /* main section style */
+main{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.about-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-info{
+    text-align: center;
+}
 
 /* main section style */
 
