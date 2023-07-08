@@ -111,7 +111,7 @@ main section{
 .about{
     padding: 130px;
     border-radius: 10px;
-    background: #d8cac1;
+    background: #FD6E0A33;
     margin: 130px;
 }
 
@@ -128,7 +128,7 @@ main section{
 .skill{
     padding: 30px;
     border-radius: 5px;
-    background: #dbd2cc;
+    background: #FD6E0A33;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 
@@ -194,7 +194,7 @@ main section{
 /* footer style */
 footer{
     display: flex;
-    background: #ada59f;
+    background: #FD6E0A33;
     padding: 130px 200px;
     margin-top: 100px;
     gap: 100px;
